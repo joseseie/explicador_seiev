@@ -1,0 +1,51 @@
+/*
+	Author : HSS;
+*/
+a {
+  text-decoration: none;
+  color: #00A0B0;
+  font-size: 0.8em; }
+
+
+body {
+  background: #edeef0;
+  font-family: 'Raleway'; }
+
+
+.margem_baixo {
+  baorder-buttom: 1px solid #edeef0; }
+
+body {
+  background: #edeef0;
+  font-family: 'Roboto', sans-serif; }
+
+h1, h2, h3, h4, h5 {
+  color: #00A0B0; }
+
+div p span {
+  font-size: 0.8em; }
+
+.margem_lateral {
+  margin-left: 20%; }
+
+.esquerda {
+  width: 17%;
+  margin-left: 20%; }
+
+.centro {
+  width: 62%;
+  margin-right: 25%; }
+
+.direita {
+  margin-left: 1%;
+  width: 19%; }
+
+/* Estilo dos explicador */
+.explicadores {
+  cursor: pointer;
+}
+#processamento{
+  width: ;
+}
+
+/*# sourceMappingURL=style_main.css.map */

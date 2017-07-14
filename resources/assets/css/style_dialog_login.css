@@ -1,0 +1,44 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+#dialog-login.modal,#dialog-registo.modal{
+    right: -75%;
+    margin-top: 30px;
+}
+#dialog-login.modal .modal-dialog,#dialog-registo.modal .modal-dialog{
+    width: 300px;
+    background: white;
+}
+.modal-dialog .entrar,.modal-dialog .criar, form .entrar {
+	background: #00B0A0;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+#dialog-login .md-form .prefix, #dialog-registo .md-form .prefix {
+    position: absolute;
+    width: 2rem;
+    font-size: 1.3rem;
+}
+#modal-dialog .fa-facebook {
+	color: #3B5998 !important;
+	margin: 0 50px 0 0;
+}
+
+#modal-dialog .fa-google-plus {
+color: #DD4B39 !important;
+/*margin-right: 30px;*/
+}
+#modal-dialog p {
+    margin-bottom: -1rem;
+    margin-top: 1rem;
+}
+#modal-dialog .mb-2, #modal-dialog .my-2 {
+    margin-bottom: 1.0rem !important;
+}
+#modal-dialog .mt-2, #modal-dialog .my-2 {
+    margin-top: 1.0rem !important;
+}
+.voltar {
+	cursor: pointer;
+}
+

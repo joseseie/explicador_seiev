@@ -1,0 +1,42 @@
+/*
+    Author : HSS;
+
+*/
+#nav-menu {
+  background-color: #00B0A0; }
+  #nav-menu .navbar-brand {
+    color: #fff; }
+  #nav-menu form input {
+    border-bottom: 1px solid #00B0A0; }
+  #nav-menu .nav-link {
+    color: #fff; }
+  #nav-menu input {
+    color: #fff; }
+
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #909; }
+
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #909;
+  opacity: 1; }
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #909;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #909; }
+
+:-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #909; }
+
+img#profile {
+  width: 42px;
+  height: 42px; }
+
+/*# sourceMappingURL=style_cabecalho.css.map */

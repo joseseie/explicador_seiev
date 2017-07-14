@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;EAEE;AAKF,OAAO;EACN,aAAa,EAAE,GAAG;EAClB,WAAW,EAAE,GAAG;EAChB,UAAU,EALA,IAAI;;AAQf,aAAa;EACT,KAAK,EAVG,OAAO",
+"sources": ["style_parte_central.scss"],
+"names": [],
+"file": "style_parte_central.css"
+}

@@ -1,0 +1,55 @@
+/*
+    Author : HSS;
+
+*/
+
+//Cores
+    $c-padrao : #00B0A0;
+    $c-placeholde : #909;
+    $c-links : #fff;
+
+#nav-menu{
+    background-color: $c-padrao;
+
+    .navbar-brand{
+        color: #fff;
+    }
+
+    form input{
+        border-bottom: 1px solid $c-padrao;
+    }
+
+    .nav-link{
+        color: $c-links;
+    }
+
+    input{
+        color: $c-links;
+    }
+
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:   $c-placeholde  
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:     $c-placeholde;
+    opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:     $c-placeholde;
+    opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color:   $c-placeholde;
+}
+:-ms-input-placeholder { /* Microsoft Edge */
+    color:  $c-placeholde;
+}
+
+
+img#profile{
+    width: 42px;
+    height: 42px;
+}

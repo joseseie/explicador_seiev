@@ -5,10 +5,13 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Jose Seie</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+
+        <!-- Styles -->
+        <link href="{{url('assets/css/estilos.css')}}" rel="stylesheet">
 
         <!-- Styles -->
         <style>
@@ -65,7 +68,7 @@
         </style>
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
+        <div class="flex-center position-ref full-height red">
             @if (Route::has('login'))
                 <div class="top-right links">
                     @if (Auth::check())
@@ -92,4 +95,10 @@
             </div>
         </div>
     </body>
+    {{--<script src="{{url('assets/js/teste.js')}}"></script>--}}
+{{--    <script src="{{url('assets/js/funcoes.js')}}"></script>--}}
+{{--    @extends('layouts.includes.links_js')--}}
+    {{--{!! HTML::style('css/style.css') !!}--}}
+    {{--<script type="text/javascript" src="{{ URL::asset('js/funcoes.js') }}"></script>--}}
+{{--    {!! HTML::script('js/funcoes.js') !!}--}}
 </html>

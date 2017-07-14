@@ -1,0 +1,47 @@
+/*
+	Author : HSS;
+*/
+	//Coes
+	$c-cinza: #edeef0;
+	$c-titulo: #00A0B0;
+a{
+  text-decoration: none;
+  color: $c-titulo;
+  font-size: 0.8em;
+}
+
+.margem_baixo{
+  margin-bottom: 1px solid $c-cinza;
+
+}
+
+body{
+	background: $c-cinza;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1, h2,h3, h4, h5{
+	color: $c-titulo;
+}
+
+div p span {
+  font-size: 0.8em; }
+
+.margem_lateral{
+  margin-left: 20%;
+}
+
+.esquerda {
+  width: 17%;
+  margin-left: 20%; 
+}
+
+.centro {
+  width: 62%;
+  margin-right: 25%; }
+
+.direita {
+  margin-left: 1%; 
+  width: 19%;
+}

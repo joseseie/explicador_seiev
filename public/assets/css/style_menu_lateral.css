@@ -1,0 +1,24 @@
+
+.card{
+    box-shadow: none;
+}
+
+div#menu-lateral  a{
+    color: #00B0A0;
+    font-size: 0.9em;
+}
+div#menu-lateral{
+
+}
+
+div#menu-lateral li{
+
+}
+
+div#menu-lateral{
+
+}
+
+.selecionado{
+    border-left: 2px solid #00C851;
+}

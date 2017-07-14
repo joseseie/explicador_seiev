@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;EAEE;AAIF,MAAM;EAEL,OAAO,EAAE,GAAG;EACZ,SAAE;IACD,KAAK,EANK,OAAO;EASlB,QAAC;IACA,SAAS,EAAE,KAAK",
+"sources": ["style_corpo.scss"],
+"names": [],
+"file": "style_corpo.css"
+}
